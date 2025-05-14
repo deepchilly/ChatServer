@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/server.dir/muduo_server.cpp.o -o /smb/chatserver/testmuduo/bin/server   -L/smb/chatserver/testmuduo/{PROJECT_SOURCE_DIR}/lib  -Wl,-rpath,/smb/chatserver/testmuduo/{PROJECT_SOURCE_DIR}/lib -lmuduo_net -lmuduo_base -lpthread 
